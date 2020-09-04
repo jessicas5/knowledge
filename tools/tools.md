@@ -47,6 +47,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Zapier](https://zapier.com/) - Easy automation for busy people. Zapier moves info between your web apps automatically.
 - [Outline](https://outline.com/) - Read & annotate without distractions.
 - [Complice](https://complice.co/) - Progress towards what matters. Provides intuitive goal-creation wizard.
+- [EasyPDF](https://easypdf.com/) - The online PDF converter made for everyone.
 - [Retool](https://retool.com/) - Cuts the time it takes to build internal tools in half.
 - [Exposure](https://exposure.co/) - Modern publishing platform for photographers and visual storytellers.
 - [Tara](https://tara.ai/) - Platform for modern product development. ([HN](https://news.ycombinator.com/item?id=23033387))
